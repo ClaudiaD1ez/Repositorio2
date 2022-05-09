@@ -4,6 +4,6 @@
 
 3- git commit -m "comentario" ---- añadir comentario con los cambios realizados en el archivo.
 
-4- git status ------ comprobar el estado.
+4- git status ------ comprobar el estado del archivo.
 
 5- git push  ------- incorpora cambios al proyecto final. 
