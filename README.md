@@ -7,3 +7,7 @@
 4- git status ------ comprobar el estado del archivo.
 
 5- git push  ------- incorpora cambios al proyecto final. 
+
+reto 4
+¿Que ha ocurrido? Se ha subido e archivo .gitignore 
+y cualquier archivo con extension .jps o .png no serán incluidos
